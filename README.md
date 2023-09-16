@@ -20,3 +20,4 @@ This is a JavaScript project that creates a weather web application. The applica
 3. Enter a city name in the input box to view the weather details.
 
 ## Url
+https://anupam-singh88.github.io/weather_app/
