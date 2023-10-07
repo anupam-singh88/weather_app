@@ -1,7 +1,7 @@
 let form = document.getElementById('form');
 let map = document.getElementById('map');
 let searchBox = document.getElementById('searchBox');
-const apikey = "3265874a2c77ae4a04bb96236a642d2f";
+const apikey = "96759c1a70c7d08845e7d71379e80567";
 const main = document.getElementById("main");
 
 form.addEventListener('submit', (event) => {
